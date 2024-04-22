@@ -11,6 +11,12 @@ This repository contains the source code and data analysis for Challenge 1. The 
 
 [Financial Well-Being in America - 2017 - DataSet User Guide](https://www.consumerfinance.gov/documents/5588/cfpb_nfwbs-puf-user-guide.pdf)
 
+## Summary of the Analysis
+Our analysis sought to identify variables with a moderate to strong correlation to financial well-being. While our initial hypothesis considered a broad set of factors, the results highlighted that the most significant correlations were not universally spread across all anticipated areas. Notably, financial skills, the ability to navigate life’s shocks, and maintaining savings underscored their importance to financial well-being. On the other hand, the impact of having children, frugality, and self-control, while relevant, did not exhibit as robust a correlation as expected.
+
+The analysis underscores the importance of financial buffer—having accessible funds for unexpected needs correlates positively with financial well-being, underscoring its significance for peace of mind. Conversely, the pressure of non-essential spending is highlighted by the pronounced negative correlation seen with financial strain from gift-giving. These findings reveal a nuanced financial landscape where stability and discretionary spending have substantial but opposing effects on an individual's financial health.
+
+
 ## Prerequisites
 Before you can run the Jupyter notebooks in this repository, you'll need to have Python installed on your system. You can download Python [here](https://www.python.org/downloads/). Additionally, ensure that `pip` is installed with Python for managing packages.
 
